@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Efo-riro",
+        "price" : "25000",
+        "description":"A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a",
+        "availability" : "2023-10-06 11:11:35",
+        "deliveryOption": true,
+        "cook": "Chef Chioma",
+        "ingredients":[
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"},
+            {"name":"rice","quantity":"500g"}
+        ]
+    }
+]

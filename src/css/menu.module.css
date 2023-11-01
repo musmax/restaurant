@@ -1,0 +1,16 @@
+.ingredient {
+    width: 100%;
+    background-color: yellow;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+}
+.ingredient th,td {
+    text-align: center;
+    padding: 8px;
+    min-width: fit-content;
+}
+.ingredient tr {
+    background-color: green;
+    border-radius: 5px;
+}
